@@ -147,7 +147,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/headshot.png"
     content: |-
       As a seasoned UX designer and software engineer with over 8 years of experience in the industry, I specialize in merging art and engineering to create immersive and interactive user experiences. My technical expertise and attention to detail ensure that my designs are not only visually appealing but also practical and efficient. By combining my creativity with my understanding of engineering principles, I develop interfaces that are intuitive and easy to use, resulting in a positive user experience.y.
     skills:
