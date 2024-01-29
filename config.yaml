@@ -300,8 +300,8 @@ params:
         content: Crafting a user-friendly UI for a Driver Advisory System, seamlessly guiding efficient and fuel-conscious decision-making during transportation.
         image: /images/das/DAS.png
         featured:
-          name: Coming Soon
-          link: 
+          name: Project Details
+          link: /portfolio/das/  #https://www.figma.com/proto/S3QTyF9O6AoBnGsw8j9uia/Untitled?page-id=0%3A1&type=design&node-id=0-1&viewport=505%2C605%2C0.18&t=iq0Deuboyrqxzvge-1&scaling=min-zoom&starting-point-node-id=3%3A2&mode=design
         badges:
         #  - "Django"
         #  - "Bootstrap"
